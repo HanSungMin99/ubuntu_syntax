@@ -1,7 +1,7 @@
 #쉘 스크립트 작성 : 반드시 확장자 .sh로 끝나야 함
 touch myscript.sh
 #스크립트문 nano편집기에서 작성
-nano myscript.sh
+nano myscript.sh ->없는 파일은 만들어지고, 있는 파일은 파일이 열림
 #스크립트 실행 : ./ 를 붙여줘야함에 유의
 ./myscript.sh
 
